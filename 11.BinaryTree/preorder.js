@@ -14,7 +14,7 @@
 let result;
 function preorder(root) {
     if(root == null) return null;
-    // If th›e root is not null, that means it has some data
+    // If the root is not null, that means it has some data
     // process the root
     result.push(root.val);
     
